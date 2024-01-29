@@ -1,0 +1,6 @@
+data/
+*data_pg_admin/
+raw_data/
+ny_taxi_postgres_data/
+data_pgadmin/
+.ipynb_checkpoints
