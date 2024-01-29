@@ -1,6 +1,6 @@
 # 🚀 Data Engineering Zoomcamp Journey
 
-Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adventure through the course conducted by [DataTalksClub](https://datatalks.club/). Here, you'll find my solutions to the assignments and projects from various weeks of the [Data Engineering Zoomcamp 2024 Edition](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
+Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adventure through the course conducted by [DataTalksClub](https://datatalks.club/). Here, you'll find my solutions to the assignments and projects from various weeks of the [Data Engineering Zoomcamp 2024 Cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
 
 ## 📚 Topics Explored:
 
