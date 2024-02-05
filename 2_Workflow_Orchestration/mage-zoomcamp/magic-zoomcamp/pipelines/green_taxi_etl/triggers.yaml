@@ -1,0 +1,6 @@
+triggers:
+- name: daily
+  schedule_type: time
+  schedule_interval: 0 5 * * *
+  start_time: 2023-01-01
+  status: active

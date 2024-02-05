@@ -4,7 +4,8 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 
 ## 📚 Topics Explored:
 
-### 📦 Week 1:
+### 📘 Module 1:
+#### Containerization and Infrastructure as Code
 
 * Running Postgres Locally with Docker
 * Ingesting Data to Postgres
@@ -15,3 +16,13 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 [Homework solutions](https://github.com/d4mp3/DamDeZoomcamp/tree/main/1_week)
 
   
+### 📙 Module 2:
+#### Workflow Orchestration
+
+* Configuring Mage - ETL: API to Postgres 
+* ETL: API to GCS
+* ETL: GCS to BigQuery
+* Parameterized Execution
+* Deployment with Terraform and GoogleCloud
+
+[Homework solutions](https://github.com/d4mp3/DamDeZoomcamp/tree/main/2_Workflow_Orchestration/mage-zoomcamp)
