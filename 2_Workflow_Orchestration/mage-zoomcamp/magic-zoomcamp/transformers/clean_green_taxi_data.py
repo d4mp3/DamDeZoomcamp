@@ -9,7 +9,7 @@ def camel_to_snake(column_name):
     return re.sub('([a-z0-9])([A-Z])', r'\1_\2', column_name).lower()
 
 @transformer
-def transform(data, *args, **kwargs): 
+def transform(data, *args, **kwargs):
     vendor_id_vals = data['VendorID'].unique()
     columns_to_rename = [col for col in data.columns if col != camel_to_snake(col)]
     print(f'VendorID values: {vendor_id_vals}')

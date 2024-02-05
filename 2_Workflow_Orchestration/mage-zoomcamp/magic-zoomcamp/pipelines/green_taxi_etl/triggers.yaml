@@ -1,6 +1,12 @@
 triggers:
-- name: daily
-  schedule_type: time
+- envs: []
+  last_enabled_at: 2024-02-05 21:18:59.237755+00:00
+  name: daily
+  pipeline_uuid: green_taxi_etl
   schedule_interval: 0 5 * * *
-  start_time: 2023-01-01
+  schedule_type: time
+  settings: {}
+  sla: null
+  start_time: 2024-02-05 05:00:00
   status: active
+  variables: {}
