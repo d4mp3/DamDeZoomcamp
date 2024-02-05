@@ -167,7 +167,6 @@ node_modules
 # Scratch files
 scratch*
 *secrets*.json
-/mage_data*
 *.json
 
 
