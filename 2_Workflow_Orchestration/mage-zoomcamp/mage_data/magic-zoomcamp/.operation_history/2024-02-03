@@ -1,5 +1,0 @@
-{"operation": "create", "resource": {"type": "pipeline", "uuid": "dwarven_healer"}, "timestamp": 1706925113, "user": null}
-{"operation": "create", "resource": {"type": "pipeline", "uuid": "valorous_byte"}, "timestamp": 1706926731, "user": null}
-{"operation": "create", "resource": {"type": "pipeline", "uuid": "timeless_lake"}, "timestamp": 1706992559, "user": null}
-{"operation": "create", "resource": {"type": "pipeline", "uuid": "bold_scroll"}, "timestamp": 1706994085, "user": null}
-{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_to_gcp_copy"}, "timestamp": 1706997943, "user": null}
