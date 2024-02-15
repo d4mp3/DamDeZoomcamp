@@ -13,7 +13,7 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 * Running Postgres and pgAdmin with Docker-Compose
 * Setting Up Infrastructure on GCP with Terraform
 
-[Homework solutions](https://github.com/d4mp3/DamDeZoomcamp/tree/main/1_week)
+[Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/01_containerization_and_infrastructure_as_code)
 
   
 ### 📙 Module 2:
@@ -25,4 +25,17 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 * Parameterized Execution
 * Deployment with Terraform and GoogleCloud
 
-[Homework solutions](https://github.com/d4mp3/DamDeZoomcamp/tree/main/2_Workflow_Orchestration/mage-zoomcamp)
+[Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/02_workflow_orchestration/mage-zoomcamp)
+
+### 📕 Module 3:
+#### Data Warehouse and BigQuery / dlt Workshop
+
+* Data ingestion from APIs to warehouse using dltHub
+* Making and running queries on External Tables in BigQuery
+* Digging into table partitioning and clustering in BigQuery
+* Understanding the variance in the volume of data read when running identical queries on both BigQuery internal and external tables
+* Running ML models in BigQuery
+
+[Homework data warehouse](https://github.com/d4mp3/DamDeZoomcamp/tree/main/03_data_warehouse)
+
+[Homework dlt](https://github.com/d4mp3/DamDeZoomcamp/tree/main/00_Workshops)
