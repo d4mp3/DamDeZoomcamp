@@ -39,3 +39,17 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 [Homework data warehouse](https://github.com/d4mp3/DamDeZoomcamp/tree/main/03_data_warehouse)
 
 [Homework dlt](https://github.com/d4mp3/DamDeZoomcamp/tree/main/00_Workshops)
+
+### 📗 Module 4:
+#### Analytics Engineering
+
+* Getting started with dbt labs
+* Understanding data modeling
+* Connecting dbt with BigQuery
+* Testing and explaining dbt models
+* Deploying with BigQuery + dbt cloud
+* scheduling tasks (dbt labs)
+* managing data sourcesdbt (dbt labs)
+* hosting documentation (dbt labs)
+
+[Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/04_analytics_engineering)
