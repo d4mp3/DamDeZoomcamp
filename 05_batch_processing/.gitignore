@@ -6,3 +6,5 @@ lib/
 spark-warehouse/
 fhvhv/
 data/
+fhv/
+.ipynb_checkpoints
