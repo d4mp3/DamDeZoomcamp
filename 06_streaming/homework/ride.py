@@ -9,9 +9,9 @@ class Ride:
         self.lpep_dropoff_datetime = datetime.strptime(arr[2], "%Y-%m-%d %H:%M:%S"),
         self.PULocationID = int(arr[5])
         self.DOLocationID = int(arr[6])
-        self.passenger_count = int(arr[7])
+        self.passenger_count = (arr[7])
         self.trip_distance = Decimal(arr[8])
-        self.tip_amount = Decimal(arr[9])
+        self.tip_amount = Decimal(arr[13])
 
     @classmethod
     def from_dict(cls, d: Dict):

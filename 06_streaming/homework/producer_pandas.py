@@ -1,11 +1,9 @@
 import json
 import time
 import pandas as pd
-
 from kafka import KafkaProducer
 
-from settings import INPUT_DATA_PATH, BOOTSTRAP_SERVERS
-
+INPUT_DATA_PATH = './green_tripdata_2019-10.csv'
 
 def json_serializer(data):
     return json.dumps(data).encode('utf-8')
@@ -47,6 +45,12 @@ df_green = pd.read_csv(INPUT_DATA_PATH, usecols=[
                                             'tip_amount'
                                         ])
 
+grouped = df_green.groupby('DOLocationID').size()
+sorted_grouped = grouped.sort_values(ascending=False)
+most_popular = sorted_grouped.index[0]
+
+print(sorted_grouped)
+print(most_popular)
 
 for row in df_green.itertuples(index=False):
     row_dict = {col: getattr(row, col) for col in row._fields}
@@ -55,3 +59,5 @@ for row in df_green.itertuples(index=False):
 producer.flush()
 t1 = time.time()
 print(f'took {(t1 - t0):.2f} seconds')
+
+
