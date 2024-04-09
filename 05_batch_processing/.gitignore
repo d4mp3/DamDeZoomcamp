@@ -1,0 +1,10 @@
+*.csv
+*.parquet
+zones/
+tmp/
+lib/
+spark-warehouse/
+fhvhv/
+data/
+fhv/
+.ipynb_checkpoints
