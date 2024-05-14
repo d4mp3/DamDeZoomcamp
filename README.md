@@ -83,6 +83,7 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 * Stateful Computation (Aggregations, Joins)
 
 [Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/06_streaming)
+
 [Workshop](https://github.com/d4mp3/DamDeZoomcamp/tree/main/00_Workshops/02_rising_wave/risingwave-data-talks-workshop-2024-03-04)
 
 ### 🏆 The Project:
