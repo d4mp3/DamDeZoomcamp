@@ -53,3 +53,42 @@ Welcome to my Data Engineering Zoomcamp repository, where I'm documenting my adv
 * hosting documentation (dbt labs)
 
 [Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/04_analytics_engineering)
+
+### 📔 Module 5:
+#### Batch processing with Spark
+
+* Spark Dataframes.
+* SQL with Spark
+* Anatomy of a Spark Cluster
+* GroupBy in Spark
+* Joins in Spark
+* Creating a Local Spark Cluster
+* Setting up a Dataproc Cluster
+* Connecting Spark to BigQuery
+
+[Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/05_batch_processing)
+
+### 📒 Module 6:
+#### Stream Processing / RisingWave Workshop
+
+* Stream processing
+* Kafka producer consumer
+* Kafka configuration
+* Kafka stream join
+* Kafka stream testing
+* Kafka stream windowing
+* Kafka ksqldb & Connect
+* Kafka Schema registry
+* Stateless computation (Filters, Projections)
+* Stateful Computation (Aggregations, Joins)
+
+[Homework](https://github.com/d4mp3/DamDeZoomcamp/tree/main/06_streaming)
+[Workshop](https://github.com/d4mp3/DamDeZoomcamp/tree/main/00_Workshops/02_rising_wave/risingwave-data-talks-workshop-2024-03-04)
+
+### 🏆 The Project:
+#### Final project
+
+The successful completion and validation of the final project demonstrated the practical application of data engineering principles and tools. This validation involved a thorough review and assessment by the Zoomcamp instructors, ensuring that all aspects of the project met the high standards set by the course.
+
+[Final Project Repository](https://github.com/d4mp3/GLDAS-Data-Pipeline)
+
